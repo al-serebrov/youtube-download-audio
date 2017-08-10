@@ -15,7 +15,10 @@ youtube-dl==2017.7.23
 ```
 $ virtualenv venv
 <<<<<<< HEAD
+<<<<<<< HEAD
 $ source venv/bin/activate
+=======
+>>>>>>> 0d4aa256f04b2d0f3f34e7f66633565aae680b7c
 =======
 >>>>>>> 0d4aa256f04b2d0f3f34e7f66633565aae680b7c
 $ pip install -r requirements.txt

@@ -112,4 +112,4 @@ if create_plst:
                 _m3u.write(
                     u'{}\n'.format(song)
                 )
-_m3u.close()
+            _m3u.close()

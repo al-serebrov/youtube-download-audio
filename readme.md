@@ -20,3 +20,6 @@ If command line argument `-f|--not-create-folder` passed, the mp3 file will be d
 The script creates file `downloads.txt` along with downloaded mp3 files.
 This file intended to store youtube IDs of already downloaded files, do not remove it if you're planning to interrupt/resume your download, and vise versa, remove it if you want to download some audious that were downloaded before.
 
+## Possible issue
+
+If you're getting an error `PostProcessingError('ffprobe or avprobe not found. Please install one.')` while running a script at the first time, you may find a solution [here](https://github.com/NixOS/nixpkgs/issues/5236)

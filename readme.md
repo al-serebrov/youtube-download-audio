@@ -10,6 +10,13 @@ ffprobe==0.5
 youtube-dl==2017.7.23
 ```
 
+## Installation
+
+```
+$ virtualenv venv
+$ pip install -r requirements.txt
+```
+
 ## Usage
 Type `python youtube-download-audio.py -h` to see a list of command line arguments.
 

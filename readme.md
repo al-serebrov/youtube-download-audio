@@ -6,9 +6,10 @@ Use this simple script to download audio from youtube following provided link.
 
 Dependencies:
 ```
-ffprobe==0.5
-youtube-dl==2017.7.23
+ffprobe
+youtube-dl
 ```
+See `requirements.txt` for version information.
 
 ## Installation
 

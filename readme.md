@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Usage
-Type `python youtube-download-audio.py -h` to see a list of command line arguments.
+Type `python downloader.py -h` to see a list of command line arguments.
 
 By default sctipt accepts an URL to the youtube playlist/video and then downloads it to the folder named as given playlist/video.
 
